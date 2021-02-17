@@ -2,7 +2,7 @@
   "Plan": {
     "id": "int",
     "name": "string",
-    "planType": "string",
+    "type": "string",
     "availability": "string"
   },
   "Comment": {
