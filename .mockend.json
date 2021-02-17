@@ -1,7 +1,7 @@
 {
   "Plan": {
     "id": "int",
-    "name": "string",
+    "name": "hola",
     "planType": "string",
     "channel": "string",
     "website": "string"
