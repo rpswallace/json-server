@@ -1,11 +1,76 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "HealthPlans": [
+  {
+    "id": 1,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
   },
+  {
+    "id": 2,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 3,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 4,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 5,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 6,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 7,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 8,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 9,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  },
+  {
+    "id": 10,
+    "name": "Health plan",
+    "planType": "Plan Type",
+    "channel": "Channel",
+    "website": "Formulary Coverage"
+  }
+],
   "Comment": {
     "body": "string",
     "post": "Post"
