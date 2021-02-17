@@ -3,8 +3,7 @@
     "id": "int",
     "name": "string",
     "planType": "string",
-    "channel": "string",
-    "website": "string"
+    "availability": "string"
   },
   "Comment": {
     "body": "string",
