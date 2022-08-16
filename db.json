@@ -107,5 +107,643 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "moreProducts": [
+        {
+            "id": 1,
+            "name": "Caja Corbata",
+            "description": "caja. corbata\n![corbata1.jpeg](/uploads/corbata1_fd11025b73.jpeg)\n",
+            "price": "5000",
+            "slug": "CA-PAPA-2021",
+            "packing": {
+                "id": 8,
+                "name": "Caja",
+                "product": null,
+                "size": "1x1",
+                "published_at": "2022-05-21T15:38:13.552Z",
+                "created_at": "2022-05-21T15:38:11.425Z",
+                "updated_at": "2022-05-21T15:38:13.567Z"
+            },
+            "pricePerQuantity": null,
+            "season_order": null,
+            "published_at": "2021-07-26T03:08:30.448Z",
+            "created_at": "2021-07-26T03:08:18.824Z",
+            "updated_at": "2022-06-02T00:15:41.899Z",
+            "photo": [
+                {
+                    "id": 3,
+                    "name": "corbata2.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 186,
+                    "height": 270,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_corbata2.jpeg",
+                            "hash": "thumbnail_corbata2_ac2d2cf070",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 107,
+                            "height": 156,
+                            "size": 3.09,
+                            "path": null,
+                            "url": "/uploads/thumbnail_corbata2_ac2d2cf070.jpeg"
+                        }
+                    },
+                    "hash": "corbata2_ac2d2cf070",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 5.27,
+                    "url": "/uploads/corbata2_ac2d2cf070.jpeg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:08:32.697Z",
+                    "updated_at": "2021-07-23T23:08:32.706Z"
+                },
+                {
+                    "id": 2,
+                    "name": "corbata3.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 225,
+                    "height": 225,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_corbata3.jpeg",
+                            "hash": "thumbnail_corbata3_8d89acb236",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 156,
+                            "height": 156,
+                            "size": 2.66,
+                            "path": null,
+                            "url": "/uploads/thumbnail_corbata3_8d89acb236.jpeg"
+                        }
+                    },
+                    "hash": "corbata3_8d89acb236",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 3.76,
+                    "url": "/uploads/corbata3_8d89acb236.jpeg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:08:32.675Z",
+                    "updated_at": "2021-07-23T23:08:32.685Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Caja Parrillera",
+            "description": "caja parrillera",
+            "price": "7500",
+            "slug": "CA-PAPA-2021-2",
+            "packing": {
+                "id": 8,
+                "name": "Caja",
+                "product": null,
+                "size": "1x1",
+                "published_at": "2022-05-21T15:38:13.552Z",
+                "created_at": "2022-05-21T15:38:11.425Z",
+                "updated_at": "2022-05-21T15:38:13.567Z"
+            },
+            "pricePerQuantity": null,
+            "season_order": null,
+            "published_at": "2021-07-26T03:09:13.688Z",
+            "created_at": "2021-07-26T03:09:03.666Z",
+            "updated_at": "2022-06-02T00:15:41.899Z",
+            "photo": [
+                {
+                    "id": 5,
+                    "name": "parrilla2.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 800,
+                    "height": 868,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_parrilla2.jpeg",
+                            "hash": "thumbnail_parrilla2_06a18e4582",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 144,
+                            "height": 156,
+                            "size": 5.92,
+                            "path": null,
+                            "url": "/uploads/thumbnail_parrilla2_06a18e4582.jpeg"
+                        },
+                        "medium": {
+                            "name": "medium_parrilla2.jpeg",
+                            "hash": "medium_parrilla2_06a18e4582",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 691,
+                            "height": 750,
+                            "size": 61.72,
+                            "path": null,
+                            "url": "/uploads/medium_parrilla2_06a18e4582.jpeg"
+                        },
+                        "small": {
+                            "name": "small_parrilla2.jpeg",
+                            "hash": "small_parrilla2_06a18e4582",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 461,
+                            "height": 500,
+                            "size": 34.3,
+                            "path": null,
+                            "url": "/uploads/small_parrilla2_06a18e4582.jpeg"
+                        }
+                    },
+                    "hash": "parrilla2_06a18e4582",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 72.77,
+                    "url": "/uploads/parrilla2_06a18e4582.jpeg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:11:41.356Z",
+                    "updated_at": "2021-07-23T23:11:41.370Z"
+                },
+                {
+                    "id": 4,
+                    "name": "parrilla3.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 485,
+                    "height": 600,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_parrilla3.jpeg",
+                            "hash": "thumbnail_parrilla3_88efafca27",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 126,
+                            "height": 156,
+                            "size": 6.92,
+                            "path": null,
+                            "url": "/uploads/thumbnail_parrilla3_88efafca27.jpeg"
+                        },
+                        "small": {
+                            "name": "small_parrilla3.jpeg",
+                            "hash": "small_parrilla3_88efafca27",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 404,
+                            "height": 500,
+                            "size": 38.61,
+                            "path": null,
+                            "url": "/uploads/small_parrilla3_88efafca27.jpeg"
+                        }
+                    },
+                    "hash": "parrilla3_88efafca27",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 51.16,
+                    "url": "/uploads/parrilla3_88efafca27.jpeg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:11:41.321Z",
+                    "updated_at": "2021-07-23T23:11:41.332Z"
+                },
+                {
+                    "id": 6,
+                    "name": "parrilla1.png",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 1000,
+                    "height": 1000,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_parrilla1.png",
+                            "hash": "thumbnail_parrilla1_3cfc13478e",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 156,
+                            "height": 156,
+                            "size": 4.77,
+                            "path": null,
+                            "url": "/uploads/thumbnail_parrilla1_3cfc13478e.png"
+                        },
+                        "medium": {
+                            "name": "medium_parrilla1.png",
+                            "hash": "medium_parrilla1_3cfc13478e",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 750,
+                            "height": 750,
+                            "size": 33.94,
+                            "path": null,
+                            "url": "/uploads/medium_parrilla1_3cfc13478e.png"
+                        },
+                        "small": {
+                            "name": "small_parrilla1.png",
+                            "hash": "small_parrilla1_3cfc13478e",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 500,
+                            "height": 500,
+                            "size": 19.52,
+                            "path": null,
+                            "url": "/uploads/small_parrilla1_3cfc13478e.png"
+                        }
+                    },
+                    "hash": "parrilla1_3cfc13478e",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 26.33,
+                    "url": "/uploads/parrilla1_3cfc13478e.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:11:41.429Z",
+                    "updated_at": "2021-07-23T23:11:41.439Z"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Caja Papa Deportes",
+            "description": "Caja papá deportes",
+            "price": "6500",
+            "slug": "CA-PAPA-2022",
+            "packing": {
+                "id": 8,
+                "name": "Caja",
+                "product": null,
+                "size": "1x1",
+                "published_at": "2022-05-21T15:38:13.552Z",
+                "created_at": "2022-05-21T15:38:11.425Z",
+                "updated_at": "2022-05-21T15:38:13.567Z"
+            },
+            "pricePerQuantity": null,
+            "season_order": null,
+            "published_at": "2022-05-16T22:43:07.643Z",
+            "created_at": "2022-05-16T22:43:01.977Z",
+            "updated_at": "2022-05-21T15:38:46.118Z",
+            "photo": [
+                {
+                    "id": 4,
+                    "name": "parrilla3.jpeg",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 485,
+                    "height": 600,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_parrilla3.jpeg",
+                            "hash": "thumbnail_parrilla3_88efafca27",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 126,
+                            "height": 156,
+                            "size": 6.92,
+                            "path": null,
+                            "url": "/uploads/thumbnail_parrilla3_88efafca27.jpeg"
+                        },
+                        "small": {
+                            "name": "small_parrilla3.jpeg",
+                            "hash": "small_parrilla3_88efafca27",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "width": 404,
+                            "height": 500,
+                            "size": 38.61,
+                            "path": null,
+                            "url": "/uploads/small_parrilla3_88efafca27.jpeg"
+                        }
+                    },
+                    "hash": "parrilla3_88efafca27",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "size": 51.16,
+                    "url": "/uploads/parrilla3_88efafca27.jpeg",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2021-07-23T23:11:41.321Z",
+                    "updated_at": "2021-07-23T23:11:41.332Z"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Caja de aguacates",
+            "description": "Caja de aguacates para los aguacateros",
+            "price": "8500",
+            "slug": "CA-PAPA-2022-1",
+            "packing": {
+                "id": 8,
+                "name": "Caja",
+                "product": null,
+                "size": "1x1",
+                "published_at": "2022-05-21T15:38:13.552Z",
+                "created_at": "2022-05-21T15:38:11.425Z",
+                "updated_at": "2022-05-21T15:38:13.567Z"
+            },
+            "pricePerQuantity": null,
+            "season_order": null,
+            "published_at": "2022-05-16T22:53:06.021Z",
+            "created_at": "2022-05-16T22:52:54.673Z",
+            "updated_at": "2022-05-21T15:39:12.597Z",
+            "photo": [
+                {
+                    "id": 7,
+                    "name": "bob.png",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 248,
+                    "height": 204,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_bob.png",
+                            "hash": "thumbnail_bob_fe842f9f1d",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 190,
+                            "height": 156,
+                            "size": 24.6,
+                            "path": null,
+                            "url": "/uploads/thumbnail_bob_fe842f9f1d.png"
+                        }
+                    },
+                    "hash": "bob_fe842f9f1d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 8.46,
+                    "url": "/uploads/bob_fe842f9f1d.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2022-05-16T22:52:49.693Z",
+                    "updated_at": "2022-05-16T22:52:49.703Z"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Abejita",
+            "description": "Individual abejita",
+            "price": "1750",
+            "slug": "individual-abejita1",
+            "packing": {
+                "id": 6,
+                "name": "Bolsita",
+                "product": null,
+                "size": null,
+                "published_at": "2021-07-23T22:55:40.223Z",
+                "created_at": "2021-07-23T22:55:37.017Z",
+                "updated_at": "2021-07-23T22:55:40.236Z"
+            },
+            "pricePerQuantity": "1600",
+            "season_order": null,
+            "published_at": "2022-05-16T23:07:38.957Z",
+            "created_at": "2022-05-16T23:07:31.898Z",
+            "updated_at": "2022-05-25T02:21:43.431Z",
+            "photo": [
+                {
+                    "id": 8,
+                    "name": "Screen Shot 2022-05-16 at 17.06.01.png",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 1852,
+                    "height": 1780,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 162,
+                            "height": 156,
+                            "size": 61.44,
+                            "path": null,
+                            "url": "/uploads/thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "large": {
+                            "name": "large_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 1000,
+                            "height": 961,
+                            "size": 1632.47,
+                            "path": null,
+                            "url": "/uploads/large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "medium": {
+                            "name": "medium_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 750,
+                            "height": 721,
+                            "size": 980.42,
+                            "path": null,
+                            "url": "/uploads/medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "small": {
+                            "name": "small_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 500,
+                            "height": 481,
+                            "size": 469.82,
+                            "path": null,
+                            "url": "/uploads/small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        }
+                    },
+                    "hash": "Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3393.04,
+                    "url": "/uploads/Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2022-05-16T23:06:24.760Z",
+                    "updated_at": "2022-05-16T23:06:24.770Z"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Individual colmena",
+            "description": "Colmena",
+            "price": "1750",
+            "slug": "individual-colmena",
+            "packing": {
+                "id": 6,
+                "name": "Bolsita",
+                "product": null,
+                "size": null,
+                "published_at": "2021-07-23T22:55:40.223Z",
+                "created_at": "2021-07-23T22:55:37.017Z",
+                "updated_at": "2021-07-23T22:55:40.236Z"
+            },
+            "pricePerQuantity": "1600",
+            "season_order": null,
+            "published_at": "2022-05-16T23:10:56.160Z",
+            "created_at": "2022-05-16T23:10:53.354Z",
+            "updated_at": "2022-05-25T02:22:04.255Z",
+            "photo": [
+                {
+                    "id": 8,
+                    "name": "Screen Shot 2022-05-16 at 17.06.01.png",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 1852,
+                    "height": 1780,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 162,
+                            "height": 156,
+                            "size": 61.44,
+                            "path": null,
+                            "url": "/uploads/thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "large": {
+                            "name": "large_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 1000,
+                            "height": 961,
+                            "size": 1632.47,
+                            "path": null,
+                            "url": "/uploads/large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "medium": {
+                            "name": "medium_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 750,
+                            "height": 721,
+                            "size": 980.42,
+                            "path": null,
+                            "url": "/uploads/medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "small": {
+                            "name": "small_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 500,
+                            "height": 481,
+                            "size": 469.82,
+                            "path": null,
+                            "url": "/uploads/small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        }
+                    },
+                    "hash": "Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3393.04,
+                    "url": "/uploads/Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2022-05-16T23:06:24.760Z",
+                    "updated_at": "2022-05-16T23:06:24.770Z"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Rosa",
+            "description": "Rosita",
+            "price": "1750",
+            "slug": "CA-PAPA-2022-2",
+            "packing": {
+                "id": 6,
+                "name": "Bolsita",
+                "product": null,
+                "size": null,
+                "published_at": "2021-07-23T22:55:40.223Z",
+                "created_at": "2021-07-23T22:55:37.017Z",
+                "updated_at": "2021-07-23T22:55:40.236Z"
+            },
+            "pricePerQuantity": "1600",
+            "season_order": null,
+            "published_at": "2022-05-16T23:39:31.132Z",
+            "created_at": "2022-05-16T23:39:29.758Z",
+            "updated_at": "2022-05-25T02:22:20.980Z",
+            "photo": [
+                {
+                    "id": 8,
+                    "name": "Screen Shot 2022-05-16 at 17.06.01.png",
+                    "alternativeText": "",
+                    "caption": "",
+                    "width": 1852,
+                    "height": 1780,
+                    "formats": {
+                        "thumbnail": {
+                            "name": "thumbnail_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 162,
+                            "height": 156,
+                            "size": 61.44,
+                            "path": null,
+                            "url": "/uploads/thumbnail_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "large": {
+                            "name": "large_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 1000,
+                            "height": 961,
+                            "size": 1632.47,
+                            "path": null,
+                            "url": "/uploads/large_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "medium": {
+                            "name": "medium_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 750,
+                            "height": 721,
+                            "size": 980.42,
+                            "path": null,
+                            "url": "/uploads/medium_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        },
+                        "small": {
+                            "name": "small_Screen Shot 2022-05-16 at 17.06.01.png",
+                            "hash": "small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                            "ext": ".png",
+                            "mime": "image/png",
+                            "width": 500,
+                            "height": 481,
+                            "size": 469.82,
+                            "path": null,
+                            "url": "/uploads/small_Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png"
+                        }
+                    },
+                    "hash": "Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3393.04,
+                    "url": "/uploads/Screen_Shot_2022_05_16_at_17_06_01_36e6bafefd.png",
+                    "previewUrl": null,
+                    "provider": "local",
+                    "provider_metadata": null,
+                    "created_at": "2022-05-16T23:06:24.760Z",
+                    "updated_at": "2022-05-16T23:06:24.770Z"
+                }
+            ]
+        }
+    ]
 }
